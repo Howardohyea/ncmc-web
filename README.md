@@ -1,6 +1,3 @@
-# [ncmc-web](https://magic-akari.github.io/ncmc-web/)
+# [ncmc-web](https://howardohyea.github.io/ncmc-web/)
 
-在网页内转换 ncm 文件。
-当前版本缺失元信息写入步骤。
-
-更快速度，以及完整功能请参阅 cli 版本 [ncmc](https://github.com/magic-akari/ncmc)。
+A fork of [Magic Akari's](https://github.com/magic-akari/ncmc-web), in hopes of improving the project by removing remote code and bringing them over locally into this repo.
